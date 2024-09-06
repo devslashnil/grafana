@@ -60,7 +60,7 @@
     "webpack": "5.88.1"
   },
   "dependencies": {
-    "@babel/core": "7.22.9",
+    "@babel/core": "7.23.2",
     "@babel/preset-env": "7.22.9",
     "@cypress/webpack-preprocessor": "5.17.1",
     "@grafana/e2e-selectors": "10.2.0-pre",
@@ -70,7 +70,7 @@
     "blink-diff": "1.0.13",
     "chrome-remote-interface": "0.32.2",
     "commander": "8.3.0",
-    "cypress": "9.5.1",
+    "cypress": "13.13.0",
     "cypress-file-upload": "5.0.8",
     "devtools-protocol": "0.0.1170333",
     "execa": "5.1.1",
