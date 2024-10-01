@@ -49,7 +49,7 @@
   "dependencies": {
     "@emotion/css": "11.11.2",
     "@emotion/react": "11.11.1",
-    "@grafana/data": "10.2.0-pre",
+    "@grafana/data": "6.3.2",
     "@grafana/e2e-selectors": "10.2.0-pre",
     "@grafana/faro-web-sdk": "1.1.2",
     "@grafana/schema": "10.2.0-pre",
@@ -111,7 +111,7 @@
     "slate-react": "0.22.10",
     "tinycolor2": "1.6.0",
     "tslib": "2.6.0",
-    "uplot": "1.6.24",
+    "uplot": "1.6.31",
     "uuid": "9.0.0"
   },
   "devDependencies": {
